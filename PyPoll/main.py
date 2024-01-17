@@ -125,3 +125,6 @@ with open("pypoll_analysis.txt", "w") as file2:
     file2.write("\nRaymon Anthony Doane: " + str(percentage_votes[2]) + "% (" + str(candidate_votes[2]) + ") ")
     
     file2.write("\n----------------------------\nWinner: Diana DeGette\n----------------------------\n")
+
+
+# End of main.py - PyPoll
